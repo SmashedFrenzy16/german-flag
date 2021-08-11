@@ -72,5 +72,7 @@ t.left(90)
 t.forward(200)
 t.end_fill()
 
+t.hideturtle()
+
 while True:
     s.update()
